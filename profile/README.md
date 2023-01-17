@@ -7,7 +7,7 @@
 
 | name                                                    | description                                                                                                                                                     |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Onsea Engine](https://github.com/OnseaStudio/OnsieaEngine) | Onsea Engine is a libre and OpenSource 2D-3D game engine developped in Java with LWJGL library (OpenGL, Vulkan, GLFW, STB, OpenAL, NanoVG ...)                 |
+| [Onsiea Engine](https://github.com/OnseaStudio/OnsieaEngine) | Onsiea Engine is a libre and OpenSource 2D-3D game engine developped in Java with LWJGL library (OpenGL, Vulkan, GLFW, STB, OpenAL, NanoVG ...)                 |
 | [Onsea Minecraft Forge Porting Tool](https://github.com/OnseaStudio/Minecraft-Forge-Porting-Tool)  | Tool who help for porting task between two versions of minecraft forge |
 | [OnseaLogger](https://github.com/OnseaStudio/OnsieaLogger) | OnsieaLogger is a libre and opensource information logging system developped by Onsiea Studio and contributors in Java language, used in particular for Onsiea studio projects. |
 | [Onsea SourceLinker](https://github.com/OnseaStudio/SourceLinker) | Source Linker is a libre and OpenSource collection of tools for developpers (dependencies manager, linking of sources, project conversion ...) |
