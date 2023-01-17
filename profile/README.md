@@ -7,7 +7,7 @@
 
 | name                                                    | description                                                                                                                                                     |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Onsea Engine](https://github.com/Onsea/OnseaEngine) | Onsea Engine is a libre and OpenSource 2D-3D game engine developped in Java with LWJGL library (OpenGL, Vulkan, GLFW, STB, OpenAL, NanoVG ...)                 |
+| [Onsea Engine](https://github.com/Onsea/OnseiaEngine) | Onsea Engine is a libre and OpenSource 2D-3D game engine developped in Java with LWJGL library (OpenGL, Vulkan, GLFW, STB, OpenAL, NanoVG ...)                 |
 
 
 ## Contact-us
