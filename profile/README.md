@@ -17,7 +17,7 @@
 ### Organization
 
 - [Discord server](https://discord.gg/SuDDXyGTEg)
-- [Github](https://github.com/Onsea)
+- [Github](https://github.com/OnseaStudio)
 
 ### Author
 
