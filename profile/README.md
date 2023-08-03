@@ -1,4 +1,4 @@
-# Onsea Studio
+# Onsiea Studio
 
 - Onsea is an indie development studio created by Seynax (https://github.com/seynax), we encourage the development of libre and open source.
 
